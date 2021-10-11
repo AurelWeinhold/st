@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Inconsolata Nerd Font Mono:size=12";
+static char *font = "Hack Nerd Font Mono:size=10";
 static char *font2 = "Material Icons:size=12";
 static int borderpx = 2;
 
